@@ -32,6 +32,7 @@ quinto, si adivinaste la palabra felicidades, ganaste el juego, si tus intentos
                         si ganaste o perdiste
 
 '''
+#Hola
 words = []
 letras_adivinadas = []
 letras_erroneas = []
